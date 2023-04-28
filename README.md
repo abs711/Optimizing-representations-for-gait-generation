@@ -2,3 +2,8 @@
 
 
 ![Concept_in_action_updated_heads1](https://user-images.githubusercontent.com/42185229/230518249-59ba806e-143e-467a-a2ce-87f576b23ec1.png)
+
+
+## Pre-print
+
+https://www.techrxiv.org/articles/preprint/Optimizing_representations_of_multiple_simultaneous_attributes_for_gait_generation_using_deep_learning/22186669

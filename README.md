@@ -1,6 +1,6 @@
 # Optimizing-representations-for-gait-generation
 
-Details of this project can be found in the following pre-print: https://www.techrxiv.org/articles/preprint/Optimizing_representations_of_multiple_simultaneous_attributes_for_gait_generation_using_deep_learning/22186669
+Details of this project can be found in the following link: https://doi.org/10.1109/TNSRE.2023.3273599
 
 ## How would this work in practice
 ![Concept_in_action_updated_heads1](https://user-images.githubusercontent.com/42185229/230518249-59ba806e-143e-467a-a2ce-87f576b23ec1.png)

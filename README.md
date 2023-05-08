@@ -5,7 +5,7 @@ Details of this project can be found in the following link: https://doi.org/10.1
 ## How would this work in practice
 ![Concept_in_action_updated_heads1](https://user-images.githubusercontent.com/42185229/230518249-59ba806e-143e-467a-a2ce-87f576b23ec1.png)
 
-## Network Diagrams
+## Network Architectures
 
 We compare 4 methods: Baseline (adapted from https://arxiv.org/pdf/1511.05644.pdf), Output Regularization, Latent Regularization, and Combined Regularization.
 

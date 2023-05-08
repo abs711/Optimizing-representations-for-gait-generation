@@ -8,6 +8,7 @@
 ## Learned representations of personal style from the data 
 
 Different subjects are shown in different colors.
+
 ![All_latent_spaces2_targetarrows](https://user-images.githubusercontent.com/42185229/236709023-2c970a29-fcc0-49f5-a3bd-dbc4942c248d.png)
 
 ## Pre-print

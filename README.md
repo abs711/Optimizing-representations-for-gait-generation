@@ -1,6 +1,6 @@
 # Optimizing-representations-for-gait-generation
 
-Details of this project can be found in the following link: https://ieeexplore.ieee.org/document/10121330
+Details of this project can be found on the following link: https://ieeexplore.ieee.org/document/10121330
 
 ## How would this work in practice
 ![Concept_in_action_updated_heads1](https://user-images.githubusercontent.com/42185229/230518249-59ba806e-143e-467a-a2ce-87f576b23ec1.png)
